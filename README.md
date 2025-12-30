@@ -19,7 +19,4 @@ This project demonstrates **real-time face detection** using **OpenCV** and the 
 - OpenCV (`opencv-python`)
 - Haar Cascade XML model
 
----
-
-## 📂 Project Structure
 
